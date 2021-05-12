@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-saml-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "express": "~4.16.1",
+    "express-session": "^1.17.1",
+    "passport": "^0.4.1",
+    "passport-saml": "^2.0.2"
+  }
+}
